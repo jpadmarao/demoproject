@@ -1,0 +1,126 @@
+
+APMK8220
+janam602
+
+WIFI  -  Paddu@12
+
+
+internet connection
+
+user name - jpremraj
+
+password - 1234
+
+
+inox login
+
+jpadmarao@gmail.com / 3VcR5J
+
+
+
+Door No. 1, Ground Floor,
+Kanaka Sindhu Building,
+6th E Cross, Kaggadasapura,
+C V Raman Nagar, Bangalore - 560093
+
+
+
+
+
+Draft LOD plan from todays meeting 
+
+20th August
+
+10.30am - 1.30pm DB Deployment - browse, ost and config tools - padma & sowmya
+
+On Track
+
+---------------------------------------------------------------
+
+21st August
+
+vPOD 4 Down
+
+2.30pm - 8.30pm - padma & sowmya
+
+actual start time 4.30PM to 12.30AM
+
+Cat 8 & 86
+
+Delayed by 2hrs
+
+---------------------------------------------------------------
+
+22nd August
+
+vPOD 1 Down
+
+3.30am - 6.30am - Suraj / padma & sowmya
+
+Actual start time 12PM IST to 5.30 PM IST 22nd August
+
+Cat 70
+
+Delayed by 9 hrs
+
+---------------------------------------------------------------
+vPOD 1 & 4 UP
+
+9.30am - 1.30am - padma(till 11 am) & sowmya
+
+Actual start time 6.30 AM IST to 10.30 AM IST 23rd August
+
+Cat 8
+
+21 hrs delay
+
+---------------------------------------------------------------
+
+23rd August
+
+vPOD 2 & 3 Down
+
+8.30 AM to 12.30 PM - padma(till 11 am) & sowmya
+
+Cat 70 and 86
+
+Delay 24th August
+
+8.30 AM to 12.30 PM
+
+Delayed to 12PM IST to 3PM IST
+
+----------------------------------------------------------------
+
+All vPOD UP 
+
+3.30 PM to 6.30 PM
+
+Cat 8
+
+
+---------------------------------------------------------------
+
+
+
+
+
+CS Config tools - yes
+CS Premier - yes
+Kryptonians 
+GCM Pipeline , GCM Foundation & Cart Services - yes
+Magneto - yes
+Megamindzz 
+Gladiators - yes
+GCM A Smart Splitting 
+Avengers - yes
+Commercial Services - yes
+E2E - yes
+
+
+
+
+
+
+
+
